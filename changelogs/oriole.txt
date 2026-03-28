@@ -1,6 +1,0 @@
-Changelog
-=========
-
-03/27/2026
----------------
-- Initial Official release
