@@ -1,9 +1,13 @@
-# 2026-03-28
-• First OTA update
-• Synced with latest source  
-• Misc cleanup  
-• March 2026 security patch  
-• Kernel updates  
-• Lunaris AOSP 3.8 features  
-• Performance and UI improvements  
-• OTA updater implement
+Changelog
+=========
+
+28/03/2026
+----------
+- First OTA update
+- Synced with latest source  
+- Misc cleanup  
+- March 2026 security patch  
+- Kernel updates  
+- Lunaris AOSP 3.8 features  
+- Performance and UI improvements  
+- OTA updater implement
