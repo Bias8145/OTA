@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "khaliq",
+      "oem": "Google",
+      "device": "shiba",
+      "filename": "Lunaris-AOSP-shiba-Specials-3.8-GUGEL-2026032808.zip",
+      "download": "https://sourceforge.net/projects/khaliq/files/shiba/lunaris_3.8/Lunaris-AOSP-shiba-Specials-3.8-GUGEL-2026032808.zip/download",
+      "timestamp": 1774696829,
+      "md5": "3f75f674e1fe7e9b1e6918199d05b7b0",
+      "sha256": "fd4f6ab76d23e46310f6f8144f6d0da7b5cd8900",
+      "size": 3027798170,
+      "version": "3.8",
+      "buildtype": "user",
+      "forum": "https://t.me/another_resource",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://www.paypal.com/paypalme/khaliq8145",
+      "telegram": "t.me/VOLD_NAMESPACE",
+      "dt": "https://github.com/Bias8145/android_device_google_shusky",
+      "common-dt": "https://github.com/Bias8145/android_device_google_zuma",
+      "kernel": "https://github.com/ionutsandroidbuilds/android_device_google_shusky-kernels"
+    }
+  ]
+}
